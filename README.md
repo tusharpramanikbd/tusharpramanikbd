@@ -1,11 +1,10 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif)](https://tushar-pramanik.netlify.app/)
+[![MasterHead](https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif)](https://tushar-pramanik.netlify.app/)
 <h1 align="center">Hi 👋, I'm Tushar Pramanik</h1>
 <h3 align="center">React JS Developer</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/08/react.gif?fit=640%2C640&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpramanikbd&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpramanikbd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharpramanikbd" alt="tusharpramanikbd" /></a> </p>
 
 - 🔭 I’m currently working on [Freshnesecom](https://github.com/tusharpramanikbd/freshnesecom-ecommerce-react)
 
@@ -20,6 +19,10 @@
 - 📫 How to reach me **tusharpramanikbd@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dQkuIwdOVuUuv_8E37_jQrFeQCU8JM2c/view?usp=sharing](https://drive.google.com/file/d/1dQkuIwdOVuUuv_8E37_jQrFeQCU8JM2c/view?usp=sharing)
+
+<br>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharpramanikbd" alt="tusharpramanikbd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
