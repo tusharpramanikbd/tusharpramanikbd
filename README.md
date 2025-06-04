@@ -30,7 +30,6 @@
 <a href="https://fb.com/tusharpramanik93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tusharpramanik93" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/tusharpramanikbd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tusharpramanikbd" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/tusharpramanikbd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharpramanikbd" height="30" width="40" /></a>
-</p>
 <a href="https://medium.com/@tusharpramanikbd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tusharpramanikbd" height="30" width="40" /></a>
 </p>
 
