@@ -6,7 +6,7 @@
 - 🎓 MSc student in **AI & Data Engineering** at the **University of Vaasa**
 - 🤖 Currently focusing on **Machine Learning, Data Engineering, and applied AI**
 - 🏭 Interested in **Industrial AI, predictive maintenance, smart energy systems, and industrial analytics**
-- 💻 3+ years of professional experience in **front-end engineering** with **React and React Native**
+- 💻 Nearly four years of professional experience in **software development**, primarily working with **React** and **React Native** in recent years.
 
 ## Connect
 
